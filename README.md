@@ -1,2 +1,2 @@
-# Diet_App
+# Diet_Plan
 Created with CodeSandbox
